@@ -1,5 +1,5 @@
 langchain
 langchain-openai
-streamlit=1.37.1
-python=3.12.4
+streamlit
 streamlit-chat
+#streamlit-chat
