@@ -1,3 +1,5 @@
+!pip install python=.12.4
+!pip install Streamlit=1.37.1
 import streamlit as st
 from streamlit_chat import message
 # from langchain.chat_models import ChatOpenAI
