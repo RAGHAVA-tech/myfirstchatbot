@@ -1,5 +1,5 @@
 langchain
 langchain-openai
-#streamlit
-#streamlit-chat
+streamlit
+streamlit-chat
 #streamlit-chat
