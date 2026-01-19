@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit_chat import messages
+import streamlit_chat import message
 from langchain_openai import ChatOpenAI
 from langchain_core.chat_history import BaseChatMessageHistory, InMemoryChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
